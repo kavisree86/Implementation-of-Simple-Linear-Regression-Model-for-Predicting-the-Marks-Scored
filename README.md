@@ -72,6 +72,15 @@ b
 
 <img width="445" alt="image" src="https://github.com/kavisree86/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145759687/bfbe5219-56eb-4520-9295-7aee36fd5353">
 
+![image](https://github.com/kavisree86/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145759687/adc99600-12cf-40e7-b739-dd0165d8f830)
+
+![image](https://github.com/kavisree86/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145759687/aa4a2a02-9c8e-4a59-9e9e-1dd795bbb3e9)
+
+![image](https://github.com/kavisree86/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145759687/43956962-1f09-4ea9-9356-a5dd7aa3af8b)
+
+![image](https://github.com/kavisree86/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145759687/a4b0756d-e316-4545-b224-3badbe7f5674)
+
+
 
 
 
